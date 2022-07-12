@@ -3,4 +3,4 @@ At this point, its just placeholder code and textures but gonna release commits 
 
 
 
-No longer being worked on cause i moved onto another engine (More specifically the FNA Reimplementation of XNA), but keeping this here anyways cause of archiving reasons.
+No longer being worked on cause I moved onto using a custom engine, but keeping this here anyways cause of archiving reasons.
